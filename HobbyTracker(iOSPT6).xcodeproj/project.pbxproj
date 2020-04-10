@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		E16DF07E2440055E009D9054 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16DF07D2440055E009D9054 /* AppDelegate.swift */; };
 		E16DF0802440055E009D9054 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16DF07F2440055E009D9054 /* SceneDelegate.swift */; };
-		E16DF0822440055E009D9054 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16DF0812440055E009D9054 /* ViewController.swift */; };
+		E16DF0822440055E009D9054 /* FriendsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16DF0812440055E009D9054 /* FriendsTableViewController.swift */; };
 		E16DF0852440055E009D9054 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E16DF0832440055E009D9054 /* Main.storyboard */; };
 		E16DF0872440055F009D9054 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E16DF0862440055F009D9054 /* Assets.xcassets */; };
 		E16DF08A2440055F009D9054 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E16DF0882440055F009D9054 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		E16DF07A2440055E009D9054 /* HobbyTracker(iOSPT6).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HobbyTracker(iOSPT6).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E16DF07D2440055E009D9054 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E16DF07F2440055E009D9054 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E16DF0812440055E009D9054 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E16DF0812440055E009D9054 /* FriendsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsTableViewController.swift; sourceTree = "<group>"; };
 		E16DF0842440055E009D9054 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E16DF0862440055F009D9054 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E16DF0892440055F009D9054 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				E16DF07D2440055E009D9054 /* AppDelegate.swift */,
 				E16DF07F2440055E009D9054 /* SceneDelegate.swift */,
-				E16DF0812440055E009D9054 /* ViewController.swift */,
+				E16DF0812440055E009D9054 /* FriendsTableViewController.swift */,
 				E16DF0832440055E009D9054 /* Main.storyboard */,
 				E16DF0862440055F009D9054 /* Assets.xcassets */,
 				E16DF0882440055F009D9054 /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E16DF0822440055E009D9054 /* ViewController.swift in Sources */,
+				E16DF0822440055E009D9054 /* FriendsTableViewController.swift in Sources */,
 				E16DF07E2440055E009D9054 /* AppDelegate.swift in Sources */,
 				E16DF0802440055E009D9054 /* SceneDelegate.swift in Sources */,
 			);
